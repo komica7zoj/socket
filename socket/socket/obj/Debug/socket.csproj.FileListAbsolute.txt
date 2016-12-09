@@ -1,0 +1,9 @@
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\bin\Debug\socket.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\bin\Debug\socket.exe
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\bin\Debug\socket.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.exe
+c:\users\samsung\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2015\Projects\socket\socket\obj\Debug\socket.Form1.resources
